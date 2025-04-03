@@ -2,7 +2,21 @@
 
 [£10m funding for new programme to help identify individual cancer risk](https://news.cancerresearchuk.org/2025/01/22/10m-funding-cancer-data-driven-detection-programme/)
 
-## MAIN THEMES
+Hello CD3 People, this is a page to help us organise the CD3 Programme start-up and initial activities for 2025.
+
+We will be sharing news about forthcoming CD3 meetings, CD3 documents via a OneDrive folder, and relevant CD3 news etc until the Programme documents have a permanent home.
+
+## USEFUL RESOURCES
+
+Consortia members will be emailed direct links to secure document stores.
+
+For access to the Slack channel or support, in the interim email <charlie.mayor@hdruk.ac.uk>
+
+## GOVERNANCE
+
+CD3 has an Executive Committee, Steering Committee, and will establish groups for the workstreams and research drivers as per below.
+
+## MAIN THEMES FOR CD3
 
 1. Prevent cancer
 2. Detect + diagnose cancer early
@@ -10,9 +24,8 @@
 
 ## WORKSTREAMS
 
-Workstream 1 (WS1): CD3 Cancer Data Lab
-
-Workstream 2 (WS2): Advanced analytics and multi-factorial modelling
+- Workstream 1 (WS1): CD3 Cancer Data Lab
+- Workstream 2 (WS2): Advanced analytics and multi-factorial modelling
 
 ### About Workstream 1
 
