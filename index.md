@@ -17,14 +17,19 @@ Workstream 2 (WS2): Advanced analytics and multi-factorial modelling
 ### About Workstream 1
 
 Theme 1 = Health system data
+
 Theme 2 = Administrative data
+
 Theme 3 = UK prospective cohorts and international consortia
 
 ### About Workstream 2
 
 WS2.1 = Develop methods for missing data, data completeness, drifts, model fairness
+
 WS2.2 = Develop tools for feature identification, data embedding and dataset fusion
+
 WS2.3 = Identify appropriate statistical / AI methodology for multimodal cancer risk prediction
+
 WS2.4 = Develop pipeline for model performance evaluation
 
 ## DRIVERS
